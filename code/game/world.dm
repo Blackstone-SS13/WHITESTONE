@@ -304,12 +304,12 @@ GLOBAL_VAR(restart_counter)
 
 /world/proc/update_status()
 	var/s = ""
-	s += "<center><a href=\"https://discord.gg/bx9c7ha5Qk\">"
+	s += "<center><a href=\"https://discord.gg/pUyy5g9tvD\">"
 #ifdef MATURESERVER
-	s += "<big><b>BLACKSTONE</b></big></a><br>"
+	s += "<big><b>WHITESTONE</b></big></a><br>"
 	s += "<b>Fantasy Computer Roleplaying Game</b></center><br>"
 #else
-	s += "<big><b>BLACKSTONE</b></big></a><br>"
+	s += "<big><b>WHITESTONE</b></big></a><br>"
 	s += "<b>Fantasy Computer Survival Game</b></center><br>"
 #endif
 //	s += "<img src=\"https://i.imgur.com/shj547T.jpg\"></a></center>"
